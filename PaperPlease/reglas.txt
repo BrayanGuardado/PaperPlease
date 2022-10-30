@@ -1,0 +1,19 @@
+	    
+
+
+
+
+
+
+	    
+
+
+
+
+
+
+	    En este juego deberas seleccionar si los datos mostrados en pantalla de cada personaje coinciden (entre INE y Pasaporte), en la esquina 
+	    superior izquierda estara el puntaje si tu opcion seleccionada fue correcta el contador aumentara en 1, de lo contrario disminuira, y 
+ 	    en casos especiales algunos personajes pueden ser terroristas y si logras notar que lo son obtendras el doble de puntaje.
+
+					

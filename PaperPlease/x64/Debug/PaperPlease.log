@@ -1,0 +1,8 @@
+﻿  Game.cpp
+  ID.cpp
+  PaperPlease.cpp
+  Passport.cpp
+  Person.cpp
+C:\Users\guard\OneDrive\Escritorio\PaperPlease\PaperPlease\Person.cpp(130,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  PaperPlease.vcxproj -> C:\Users\guard\OneDrive\Escritorio\PaperPlease\x64\Debug\PaperPlease.exe

@@ -1,0 +1,24 @@
+		   	
+
+
+
+		      
+								---
+		      Nombre: 				       |INE|
+		      Gonzalez 		                        ---			
+		      Arreola
+		      Andres Manuel
+		      
+		      Domicilio: 
+ 	 	      Las Palmas #129
+		      Colonia: Santa Cecilia
+
+
+		      Nacionalidad: Mexicano
+		      CURP: TIPC490202HTSNZN07
+		      Edad: 39
+		      Sexo: Masculino
+		     
+		      Fecha de Nacimiento: 09/02/1983
+		      Vigencia: 2018 - 2021
+		      

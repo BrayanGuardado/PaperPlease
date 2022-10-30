@@ -1,0 +1,24 @@
+		      
+
+
+
+
+								---
+		      Nombre: 				       |INE|
+		      Ramirez 		                        ---			
+		      Ochoa
+		      Maria Juana
+		      
+		      Domicilio: 
+ 	 	      Juan Jose Arreola #97
+		      Colonia: Las Moras
+
+
+		      Nacionalidad: Mexicano
+		      CURP: CAAJ880203HTSSCV13
+		      Edad: 38
+		      Sexo: Femenino
+		     
+		      Fecha de Nacimiento: 05/08/1984
+		      Vigencia: 2021 - 2023
+		      

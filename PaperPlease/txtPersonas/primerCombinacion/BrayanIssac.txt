@@ -1,0 +1,23 @@
+		   	
+
+
+
+		      
+								---
+		      Nombre: 				       |INE|
+		      Torres 		                        ---			
+		      Garcia
+		      Brayan Issac
+		      
+		      Domicilio: 
+ 	 	      Tateposco #89
+		      Colonia: Las Moras
+
+		      Nacionalidad: Mexicano
+		      CURP: SECM620929HTSGPG06
+		      Edad: 22
+		      Sexo: Masculino
+		     
+		      Fecha de Nacimiento: 15/09/2000
+		      Vigencia: 2021 - 2024
+		      
